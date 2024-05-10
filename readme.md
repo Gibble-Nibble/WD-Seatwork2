@@ -1,13 +1,11 @@
 <a name="readme-top"/>
 
 <br/>
-
 <br />
+
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/ditto.jpg" alt="Nyebe" width="130" height="100">
-  </a>
+<a href="https://app.daily.dev/gibblenibble"><img src="https://api.daily.dev/devcards/v2/mKMYGKMhZ0JA9QE1zj7I0.png?type=wide&r=y8t" width="652" alt="Wim's Dev Card"/></a>
+
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Ditto</h3>
 </div>
